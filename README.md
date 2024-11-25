@@ -105,7 +105,7 @@ Tailwind CSS is used for styling the project, enabling a utility-first approach 
    - By utilizing props in the `GreetingCard` component, I learned how to make components dynamic and reusable. This makes the component flexible enough to accept different messages and sender names.
 
 ## Project Testing
-![project Testing Interface](<public/Greetings card - Google Chrome 11_25_2024 12_31_39 PM.png>)
+![project Testing Interface](./public/test.png)
 
 ## Conclusion
 
